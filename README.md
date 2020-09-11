@@ -1,4 +1,3 @@
 # IT202-009
 
-My first repository
-Test 22
+This is a README.md file. There is currently nothing in it.
