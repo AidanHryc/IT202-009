@@ -1,3 +1,4 @@
 test.*
 *test*
 *.log
+config.php
