@@ -30,7 +30,7 @@ if (isset($_POST["saved"])) {
             }
         }
         if ($inUse > 0) {
-            echo "Email is already in use";
+            echo "Email is already in use<br>";
             //for now we can just stop the rest of the update
             $isValid = false;
         }
@@ -54,7 +54,7 @@ if (isset($_POST["saved"])) {
             }
         }
         if ($inUse > 0) {
-            echo "Username is already in use";
+            echo "Username is already in use<br>";
             //for now we can just stop the rest of the update
             $isValid = false;
         }
